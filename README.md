@@ -31,9 +31,9 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 
 ## 🛡️ Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prithakdas.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithak-das/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prithakdas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prithakpdas@gmail.com)
 
 </div>
@@ -123,88 +123,6 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 **Linux Privilege Escalation Toolkit** — Modular Python toolkit automating system enumeration and privesc vector detection, with HTML/JSON reporting.
 
 **PDF Malware Analysis Toolkit** — Static analysis framework detecting embedded scripts, obfuscation, and network indicators with risk-based classification.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=c9d1d9" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
-
-</div>
-
-> ℹ️ Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username to activate these live stat cards.
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-```
-Add this repo secret + workflow (below) so GitHub auto-generates the animated snake
-eating your contribution graph, then it will render right here:
-```
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-<!--END_SECTION:snake-->
-
-</div>
-
-<details>
-<summary><b>⚙️ How to activate the snake game animation (click to expand)</b></summary>
-
-<br>
-
-1. In your profile repo, create `.github/workflows/snake.yml` with:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Push this workflow once — GitHub Actions will build the animated snake SVG on an `output` branch.
-3. Update the `<img>` src above to point to:
-   `https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg`
-4. Done — the snake will "eat" your contribution graph and refresh daily.
-
-</details>
 
 ---
 
