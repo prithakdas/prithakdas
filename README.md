@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/GeekyAnts/Gify/master/svg/line.svg" width="100%" alt="divider">
+---
 
 ## `whoami`
 
@@ -38,7 +38,7 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 
 </div>
 
-<img src="https://raw.githubusercontent.com/GeekyAnts/Gify/master/svg/line.svg" width="100%" alt="divider">
+---
 
 ## 🎯 Currently Working On
 
@@ -47,7 +47,7 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 - 🏆 Competing in international CTFs — SecLeaf, THEM?!, boroCTF
 - 🚀 Building **ShadowMap** — an AI-driven attack surface intelligence platform
 
-<img src="https://raw.githubusercontent.com/GeekyAnts/Gify/master/svg/line.svg" width="100%" alt="divider">
+---
 
 ## 🧰 Tech & Tools Arsenal
 
@@ -84,7 +84,7 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 
 </div>
 
-<img src="https://raw.githubusercontent.com/GeekyAnts/Gify/master/svg/line.svg" width="100%" alt="divider">
+---
 
 ## 🏆 Achievements
 
@@ -99,7 +99,7 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 
 `AZ-900 Microsoft Azure Fundamentals` &nbsp;•&nbsp; `Certified Red Team Operations Management (CRTOM)` &nbsp;•&nbsp; `Certified LLM Security Professional (CLLMSP)` &nbsp;•&nbsp; `Ethical Hacking Training` &nbsp;•&nbsp; `Cisco Networking Basics` &nbsp;•&nbsp; `TCM Security Linux 100 Fundamentals`
 
-<img src="https://raw.githubusercontent.com/GeekyAnts/Gify/master/svg/line.svg" width="100%" alt="divider">
+---
 
 ## 🚩 Featured Projects
 
@@ -124,7 +124,7 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 
 **PDF Malware Analysis Toolkit** — Static analysis framework detecting embedded scripts, obfuscation, and network indicators with risk-based classification.
 
-<img src="https://raw.githubusercontent.com/GeekyAnts/Gify/master/svg/line.svg" width="100%" alt="divider">
+---
 
 ## 📊 GitHub Stats
 
@@ -141,7 +141,7 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 
 > ℹ️ Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username to activate these live stat cards.
 
-<img src="https://raw.githubusercontent.com/GeekyAnts/Gify/master/svg/line.svg" width="100%" alt="divider">
+---
 
 ## 🐍 Contribution Snake
 
@@ -206,7 +206,7 @@ jobs:
 
 </details>
 
-<img src="https://raw.githubusercontent.com/GeekyAnts/Gify/master/svg/line.svg" width="100%" alt="divider">
+---
 
 <div align="center">
 
