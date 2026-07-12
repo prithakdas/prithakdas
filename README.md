@@ -130,8 +130,4 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 
 ### 💬 "Break it before someone else does."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00FF9C&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-
 </div>
