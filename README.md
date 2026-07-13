@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Prithak%20Das&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Professional%20%7C%20Pentester%20%7C%20CTF%20Player&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,50:0D1B2E,100:113355&height=220&section=header&text=Prithak%20Das&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Professional%20%7C%20Pentester%20%7C%20CTF%20Player&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=650&lines=Penetration+Testing+%7C+VAPT+%7C+Threat+Analysis;OWASP+Top+10+%7C+SIEM+%7C+Cloud+Security;Python+Security+Automation;Top+5%25+on+TryHackMe;M.Sc.+Advanced+Networking+%26+Cyber+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00E676&center=true&vCenter=true&width=650&lines=Penetration+Testing+%7C+VAPT+%7C+Threat+Analysis;OWASP+Top+10+%7C+SIEM+%7C+Cloud+Security;Python+Security+Automation;Top+5%25+on+TryHackMe;M.Sc.+Advanced+Networking+%26+Cyber+Security" alt="Typing SVG" />
 </a>
 
 </div>
@@ -31,10 +31,10 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 
 ## 🛡️ Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prithakdas.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithak-das/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prithakdas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prithakpdas@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1321?style=for-the-badge&logo=vercel&logoColor=00E5FF)](https://prithakdas.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1321?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/prithak-das/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1321?style=for-the-badge&logo=github&logoColor=00E676)](https://github.com/prithakdas)
+[![Email](https://img.shields.io/badge/Email-0D1321?style=for-the-badge&logo=gmail&logoColor=00E5FF)](mailto:prithakpdas@gmail.com)
 
 </div>
 
@@ -55,32 +55,32 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 
 **Penetration Testing & VAPT**
 
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00954C?style=flat-square)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-2B2E83?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1321?style=flat-square&logo=metasploit&logoColor=00E676)
+![BurpSuite](https://img.shields.io/badge/Burp%20Suite-0D1321?style=flat-square&logo=burpsuite&logoColor=00E5FF)
+![Nmap](https://img.shields.io/badge/Nmap-0D1321?style=flat-square&logo=nmap&logoColor=00E676)
+![Nessus](https://img.shields.io/badge/Nessus-0D1321?style=flat-square&logoColor=00E5FF)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-0D1321?style=flat-square&logoColor=00E676)
 
 **Forensics & Analysis**
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-3A3A3A?style=flat-square)
-![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=flat-square&logo=hashcat&logoColor=white)
-![JohnTheRipper](https://img.shields.io/badge/John%20the%20Ripper-black?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1321?style=flat-square&logo=wireshark&logoColor=00E5FF)
+![Autopsy](https://img.shields.io/badge/Autopsy-0D1321?style=flat-square&logoColor=00E676)
+![Hashcat](https://img.shields.io/badge/Hashcat-0D1321?style=flat-square&logo=hashcat&logoColor=00E5FF)
+![JohnTheRipper](https://img.shields.io/badge/John%20the%20Ripper-0D1321?style=flat-square&logoColor=00E676)
 
 **Programming & Cloud**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-0D1321?style=flat-square&logo=python&logoColor=00E5FF)
+![Flask](https://img.shields.io/badge/Flask-0D1321?style=flat-square&logo=flask&logoColor=00E676)
+![Azure](https://img.shields.io/badge/Azure-0D1321?style=flat-square&logo=microsoftazure&logoColor=00E5FF)
+![AWS](https://img.shields.io/badge/AWS-0D1321?style=flat-square&logo=amazonaws&logoColor=00E676)
+![GitHubActions](https://img.shields.io/badge/GitHub_Actions-0D1321?style=flat-square&logo=githubactions&logoColor=00E5FF)
+![Linux](https://img.shields.io/badge/Linux-0D1321?style=flat-square&logo=linux&logoColor=00E676)
 
 **Networking**
 
-![Cisco](https://img.shields.io/badge/OSPF%20%7C%20EIGRP-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![TCPIP](https://img.shields.io/badge/TCP%2FIP-4A90D9?style=flat-square)
+![Cisco](https://img.shields.io/badge/OSPF%20%7C%20EIGRP-0D1321?style=flat-square&logo=cisco&logoColor=00E5FF)
+![TCPIP](https://img.shields.io/badge/TCP%2FIP-0D1321?style=flat-square&logoColor=00E676)
 
 </div>
 
@@ -115,6 +115,6 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 
 <div align="center">
 
-### 💬 "Break it before someone else does."
+### 💬 "Practice on the battlefield before protecting the real one."
 
 </div>
