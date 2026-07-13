@@ -103,19 +103,6 @@ currently:   Cybersecurity Intern @ Unified Mentor | VAPT Intern @ Brainware Uni
 
 ## 🚩 Featured Projects
 
-<div align="center">
-
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=github&title_color=00FF9C&text_color=ffffff&bg_color=0D1117&icon_color=00FF9C&hide_border=true" width="48%"/>
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=docs&title_color=00FF9C&text_color=ffffff&bg_color=0D1117&icon_color=00FF9C&hide_border=true" width="48%"/>
-</a>
-
-</div>
-
-> ℹ️ **Note:** Replace the placeholder `username=github&repo=...` values above with your actual GitHub repo names (e.g. `ShadowMap`, `SentinelShield`) once they're pushed, so the pin cards pull your real project stats automatically.
-
 **ShadowMap** — AI-driven attack surface intelligence platform: real-time CVE mapping from Nmap service versions, multi-source OSINT enrichment, and subdomain enumeration with reputation profiling.
 
 **SentinelShield** — Python/Flask real-time Web IDS detecting SQLi, XSS, Directory Traversal, LFI, and Command Injection from live HTTP traffic.
