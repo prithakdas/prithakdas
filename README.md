@@ -1,125 +1,183 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:10233F,100:164E63&height=230&section=header&text=Prithak%20Das&fontSize=56&fontColor=FFFFFF&fontAlignY=34&desc=VAPT%20%7C%20Web%20Application%20Security%20%7C%20Security%20Research&descAlignY=56&descSize=16&animation=fadeIn" width="100%" alt="Prithak Das — Cybersecurity" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:10233F,75:0E7490,100:0F766E&height=250&section=header&text=PRITHAK%20DAS&fontSize=58&fontColor=FFFFFF&fontAlignY=34&desc=VAPT%20ANALYST%20%7C%20WEB%20SECURITY%20%7C%20SECURITY%20RESEARCH&descAlignY=57&descSize=15&animation=fadeIn" width="100%" alt="Prithak Das — Cybersecurity" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Web+Application+Penetration+Testing;Vulnerability+Assessment+%26+Responsible+Disclosure;Attack+Surface+Discovery+%7C+Security+Automation;CTF+Player+%7C+Continuous+Learner" alt="Areas of focus" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=850&color=67E8F9&center=true&vCenter=true&width=780&lines=Breaking+Web+Apps+in+Authorized+Labs;Finding+%E2%86%92+Validating+%E2%86%92+Reporting+%E2%86%92+Retesting;Building+Tools+for+Practical+Security;CTF+Player+%7C+Lifelong+Learner" alt="Cybersecurity focus" />
 
 <p>
-  <a href="https://prithakdas.github.io/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=firefox&logoColor=22D3EE" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/prithak-das/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:prithakpdas@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://github.com/prithakdas"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+<a href="https://prithakdas.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=firefox&logoColor=67E8F9" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/prithak-das/"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"/></a>
+<a href="mailto:prithakpdas@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=FCA5A5" alt="Email"/></a>
+<a href="https://github.com/prithakdas"><img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=prithakdas&style=flat-square&color=0e7490&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## About me
+<div align="center">
 
-I'm **Prithak Das**, a cybersecurity practitioner focused on **web application penetration testing, vulnerability assessment, attack-surface discovery, and security automation**. I work on client-facing security assessments, from reconnaissance and manual testing to evidence-based reporting and remediation retesting.
+### WHOAMI
 
-- **Current role:** VAPT Intern, Brainware University
-- **Location:** Kolkata, India
-- **Education:** M.Sc. in Advanced Networking and Cyber Security — Brainware University (**CGPA: 8.98/10**)
-- **Current focus:** Web application security, responsible disclosure, and practical security tooling
-- **Hands-on practice:** CTF competitions and security labs; **Top 2% on TryHackMe**
+**Cybersecurity Practitioner · Web Application VAPT · Security Research**
 
-## What I work on
+*Kolkata, India · M.Sc. Advanced Networking & Cyber Security · CGPA 8.98/10*
 
-| Area | Experience and tools |
-| --- | --- |
-| Web application security | Burp Suite, Nmap, Gobuster, Nuclei, Nikto; SQL injection, XSS, LFI, command injection, directory traversal |
-| Vulnerability assessment | Nessus, OpenVAS, CVE analysis, finding validation, evidence collection, reporting and retesting |
-| Security research | Independent vulnerability research and responsible disclosure, including WordPress issues and exposure of student PII |
-| Network security | TCP/IP, ARP, switching, static routing, OSPF, EIGRP, route redistribution |
+</div>
+
+I focus on practical web application security: mapping attack surfaces, validating vulnerabilities, documenting impact, and helping teams understand remediation. I also build Python-based security tools and sharpen my skills through hands-on labs and CTF competitions.
+
+| <img src="https://img.shields.io/badge/ROLE-VAPT%20INTERN-0E7490?style=flat-square"/> | <img src="https://img.shields.io/badge/TRYHACKME-TOP%202%25-0E7490?style=flat-square"/> | <img src="https://img.shields.io/badge/FOCUS-WEB%20SECURITY-0E7490?style=flat-square"/> |
+|:---:|:---:|:---:|
+
+<details>
+<summary><b>⚡ Quick facts</b></summary>
+
+- Current role: VAPT Intern — Brainware University
+- Previous experience: Cybersecurity Intern — Unified Mentor Pvt. Ltd.
+- Research: Responsible disclosure involving educational institutions
+- Interests: Web, API, cloud, and application security; security automation
+
+</details>
+
+## 🎮 Play a mini security game
+
+<div align="center">
+
+<a href="https://prithakdas.github.io/prithakdas/">
+<img src="https://img.shields.io/badge/▶%20PLAY%20PACKET%20PANIC-0B1220?style=for-the-badge&logo=hackthebox&logoColor=67E8F9" alt="Play Packet Panic"/>
+</a>
+
+**8 traffic samples. 8 security decisions. Can you spot the vulnerability?**
+
+*A browser-based web security quiz built with HTML, CSS and JavaScript.*
+
+</div>
+
+> First-time setup: open **Repository Settings → Pages → Build and deployment → Source**, select **GitHub Actions**, and save. The included workflow deploys the game. Once deployment succeeds, play at the link above.
+
+## 🧭 Focus areas
+
+| Domain | Tools / topics |
+|---|---|
+| Web application VAPT | Burp Suite, Nmap, Gobuster, Nuclei, Nikto; SQLi, XSS, LFI, command injection, path traversal |
+| Vulnerability assessment | Nessus, OpenVAS, CVE analysis, validation, reporting, retesting |
+| Network security | TCP/IP, ARP, switching, static routing, OSPF, EIGRP |
 | Digital forensics | Wireshark, Autopsy, Sleuth Kit |
 | Password auditing | Hashcat, John the Ripper, Hydra, Medusa |
-| Cloud and DevOps | Microsoft Azure, AWS, Azure App Service, GitHub Actions |
-| Development | Python, Flask; Linux and Windows Server |
+| Cloud & DevOps | Microsoft Azure, AWS, Azure App Service, GitHub Actions |
+| Development | Python, Flask; Linux, Windows Server |
 
-## Selected projects
+## 🧪 Selected work
 
-### ShadowMap — AI-Driven Attack Surface Intelligence
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An AI-integrated Nmap GUI designed to support reconnaissance and asset discovery.
+### ShadowMap
+**AI-driven attack-surface intelligence**
 
-- Real-time CVE mapping based on discovered services
-- Multi-source OSINT enrichment
-- Domain and subdomain enumeration
+- Nmap GUI for reconnaissance
+- CVE mapping from discovered services
+- OSINT enrichment and subdomain discovery
 
-### [SentinelShield — Web Intrusion Detection System](https://github.com/prithakdas/sentinelshield-web-ids)
+</td>
+<td width="50%" valign="top">
 
-A Python/Flask-based web IDS that parses incoming HTTP requests and detects patterns associated with SQL injection, XSS, directory traversal, LFI, and command injection.
+### SentinelShield
+[Repository ↗](https://github.com/prithakdas/sentinelshield-web-ids)
 
-### [Linux Privilege Escalation Toolkit](https://github.com/prithakdas/linux-privilege-escalation-toolkit)
+**Python / Flask web intrusion detection**
 
-A modular Python toolkit for system enumeration and identification of common privilege-escalation vectors, with HTML and JSON reporting.
+- HTTP request inspection
+- Detection patterns for SQLi, XSS, LFI, traversal and command injection
 
-### [PDF Malware Analysis Toolkit](https://github.com/prithakdas/pdf-malware-analyzer)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A static PDF analysis framework that looks for embedded scripts, obfuscation, and network indicators, then produces risk-based threat classification.
+### Linux PrivEsc Toolkit
+[Repository ↗](https://github.com/prithakdas/linux-privilege-escalation-toolkit)
 
-### [Enterprise Network Design](https://github.com/prithakdas/enterprise-network-design)
+- Modular Linux enumeration
+- Common privilege-escalation checks
+- HTML and JSON reporting
 
-Hands-on network design and routing work covering enterprise network design and routing technologies.
+</td>
+<td width="50%" valign="top">
 
-> Project summaries describe the intended purpose and reported capabilities. Refer to each repository for implementation details, setup instructions, and current functionality.
+### PDF Malware Analyzer
+[Repository ↗](https://github.com/prithakdas/pdf-malware-analyzer)
 
-## Experience
+- Static PDF inspection
+- Embedded script and obfuscation checks
+- Network indicators and risk classification
 
-**VAPT Intern — Brainware University**  
-*May 2026 – Present*
+</td>
+</tr>
+</table>
+
+**More work:** [Enterprise Network Design](https://github.com/prithakdas/enterprise-network-design) · [Advanced EIGRP Routing](https://github.com/prithakdas/advanced-eigrp-routing) · [Writeups](https://github.com/prithakdas/writeups)
+
+## 💼 Experience
+
+**VAPT Intern — Brainware University** · *May 2026 – Present*
 
 - Conduct web application VAPT to identify vulnerabilities, weaknesses, and potential attack paths.
 - Perform reconnaissance, directory/content enumeration, and manual testing using Nmap, Gobuster, Burp Suite, and Nuclei.
-- Document findings with evidence and impact, prepare client reports, and conduct remediation retesting.
+- Document findings with evidence and impact, prepare client reports, and perform remediation retesting.
 
-**Independent Security Research**  
-*October – November 2026*
+**Independent Security Research** · *October – November 2026*
 
 - Identified security vulnerabilities across three educational institutions.
-- Research included WordPress vulnerabilities and unauthenticated exposure of student personally identifiable information (PII).
+- Research included WordPress vulnerabilities and unauthenticated exposure of student PII.
 - Prepared responsible disclosure reports with supporting evidence and remediation recommendations.
 
-**Cybersecurity Intern — Unified Mentor Pvt. Ltd. (Remote)**  
-*February 2026 – August 2026*
+**Cybersecurity Intern — Unified Mentor Pvt. Ltd.** · *February – August 2026*
 
-- Developed and delivered four cybersecurity projects: a Web IDS, PDF malware analysis toolkit, Linux privilege-escalation toolkit, and Windows process monitoring agent, using Python and Flask.
+- Built four Python/Flask cybersecurity projects: Web IDS, PDF malware analysis toolkit, Linux privilege-escalation toolkit, and Windows process monitoring agent.
 
-## Certifications
+## 🏆 Highlights
 
-- **AZ-900** — Microsoft Azure Fundamentals
-- **Web-RTA** — Web Red Team Analyst
-- **AD-RTS**
-- **CRTOM**
-- **C3SA**
+<div align="center">
 
-## Achievements & competitions
+<img src="https://img.shields.io/badge/7th%20Place-EC--Council%20Hackerverse%20CTF%202026-0E7490?style=for-the-badge" alt="7th place Hackerverse"/>
+<img src="https://img.shields.io/badge/First%20Runner--Up-BrainCON%20CTF%202026-0E7490?style=for-the-badge" alt="BrainCON runner-up"/>
+<img src="https://img.shields.io/badge/Top%202%25-TryHackMe-0E7490?style=for-the-badge" alt="TryHackMe top 2%"/>
 
-- **7th Place** — EC-Council Hackerverse CTF 2026, scoring **2000/2000**.
+</div>
+
+- **7th Place** — EC-Council Hackerverse CTF 2026, scoring 2000/2000.
 - **First Runner-Up** — BrainCON CTF 2026.
 - **72nd nationally** — 2026 CTF rankings with Syntax Terror CTF Team.
 - **Top 15% finishes** across four international CTF competitions.
-- Received a **Memento of Recognition** from the Department of Cyber Science & Technology, Brainware University, during CyberNex 2026 Alumni Meet.
+- Memento of Recognition — Department of Cyber Science & Technology, Brainware University, CyberNex 2026 Alumni Meet.
 
-## GitHub activity
+## 📜 Certifications
+
+AZ-900 — Microsoft Azure Fundamentals · Web-RTA · AD-RTS · CRTOM · C3SA
+
+## 📊 GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prithakdas&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithakdas&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prithakdas&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithakdas&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prithakdas&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
 </div>
 
-## Let's connect
+## 🤝 Connect
 
-I'm interested in practical application security, security research, responsible disclosure, and collaborating on security-focused projects.
-
-- **Portfolio:** https://prithakdas.github.io/
-- **LinkedIn:** https://www.linkedin.com/in/prithak-das/
-- **Email:** prithakpdas@gmail.com
+- **Portfolio:** [prithakdas.github.io](https://prithakdas.github.io/)
+- **LinkedIn:** [Prithak Das](https://www.linkedin.com/in/prithak-das/)
+- **Email:** [prithakpdas@gmail.com](mailto:prithakpdas@gmail.com)
+- **TryHackMe:** [Profile](https://tryhackme.com/)
 
 <div align="center">
 
-*Build. Break. Understand. Secure.*
+*Think like an attacker. Validate like an analyst. Secure like a defender.*
 
 </div>
