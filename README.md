@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:10233F,100:164E63&height=230&section=header&text=Prithak%20Das&fontSize=56&fontColor=FFFFFF&fontAlignY=34&desc=VAPT%20Analyst%20%7C%20Web%20Application%20Security%20%7C%20Security%20Research&descAlignY=56&descSize=16&animation=fadeIn" width="100%" alt="Prithak Das — VAPT Analyst" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:10233F,100:164E63&height=230&section=header&text=Prithak%20Das&fontSize=56&fontColor=FFFFFF&fontAlignY=34&desc=VAPT%20%7C%20Web%20Application%20Security%20%7C%20Security%20Research&descAlignY=56&descSize=16&animation=fadeIn" width="100%" alt="Prithak Das — Cybersecurity" />
 
-<a href="https://www.linkedin.com/in/prithak-das/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Web+Application+Penetration+Testing;Vulnerability+Assessment+%26+Responsible+Disclosure;Attack+Surface+Discovery+%7C+Security+Automation;CTF+Player+%7C+Continuous+Learner" alt="Areas of focus" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Web+Application+Penetration+Testing;Vulnerability+Assessment+%26+Responsible+Disclosure;Attack+Surface+Discovery+%7C+Security+Automation;CTF+Player+%7C+Continuous+Learner" alt="Areas of focus" />
 
 <p>
   <a href="https://prithakdas.github.io/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=firefox&logoColor=22D3EE" alt="Portfolio" /></a>
@@ -22,10 +20,10 @@
 I'm **Prithak Das**, a cybersecurity practitioner focused on **web application penetration testing, vulnerability assessment, attack-surface discovery, and security automation**. I work on client-facing security assessments, from reconnaissance and manual testing to evidence-based reporting and remediation retesting.
 
 - **Current role:** VAPT Intern, Brainware University
-- **Base:** Kolkata, India
-- **Education:** M.Sc. in Advanced Networking and Cyber Security — Brainware University (CGPA: **8.98/10**)
-- **Current focus:** Web application security, responsible disclosure, and building practical security tools
-- **Practice:** CTF competitions and hands-on security labs; **Top 2% on TryHackMe** (as stated in my current CV)
+- **Location:** Kolkata, India
+- **Education:** M.Sc. in Advanced Networking and Cyber Security — Brainware University (**CGPA: 8.98/10**)
+- **Current focus:** Web application security, responsible disclosure, and practical security tooling
+- **Hands-on practice:** CTF competitions and security labs; **Top 2% on TryHackMe**
 
 ## What I work on
 
@@ -42,7 +40,8 @@ I'm **Prithak Das**, a cybersecurity practitioner focused on **web application p
 
 ## Selected projects
 
-### [ShadowMap — AI-Driven Attack Surface Intelligence](https://github.com/prithakdas/prithakdas.github.io)
+### ShadowMap — AI-Driven Attack Surface Intelligence
+
 An AI-integrated Nmap GUI designed to support reconnaissance and asset discovery.
 
 - Real-time CVE mapping based on discovered services
@@ -50,18 +49,22 @@ An AI-integrated Nmap GUI designed to support reconnaissance and asset discovery
 - Domain and subdomain enumeration
 
 ### [SentinelShield — Web Intrusion Detection System](https://github.com/prithakdas/sentinelshield-web-ids)
+
 A Python/Flask-based web IDS that parses incoming HTTP requests and detects patterns associated with SQL injection, XSS, directory traversal, LFI, and command injection.
 
 ### [Linux Privilege Escalation Toolkit](https://github.com/prithakdas/linux-privilege-escalation-toolkit)
+
 A modular Python toolkit for system enumeration and identification of common privilege-escalation vectors, with HTML and JSON reporting.
 
 ### [PDF Malware Analysis Toolkit](https://github.com/prithakdas/pdf-malware-analyzer)
+
 A static PDF analysis framework that looks for embedded scripts, obfuscation, and network indicators, then produces risk-based threat classification.
 
-### [Network Engineering Labs](https://github.com/prithakdas/enterprise-network-design)
-Hands-on network design and routing work covering enterprise network design and routing technologies including OSPF and EIGRP.
+### [Enterprise Network Design](https://github.com/prithakdas/enterprise-network-design)
 
-> Project descriptions summarize my work; see each repository for implementation details, current functionality, and setup instructions.
+Hands-on network design and routing work covering enterprise network design and routing technologies.
+
+> Project summaries describe the intended purpose and reported capabilities. Refer to each repository for implementation details, setup instructions, and current functionality.
 
 ## Experience
 
@@ -82,7 +85,7 @@ Hands-on network design and routing work covering enterprise network design and 
 **Cybersecurity Intern — Unified Mentor Pvt. Ltd. (Remote)**  
 *February 2026 – August 2026*
 
-- Developed and delivered four Python/Flask cybersecurity projects: a Web IDS, PDF malware analysis toolkit, Linux privilege-escalation toolkit, and Windows process monitoring agent.
+- Developed and delivered four cybersecurity projects: a Web IDS, PDF malware analysis toolkit, Linux privilege-escalation toolkit, and Windows process monitoring agent, using Python and Flask.
 
 ## Certifications
 
@@ -100,13 +103,20 @@ Hands-on network design and routing work covering enterprise network design and 
 - **Top 15% finishes** across four international CTF competitions.
 - Received a **Memento of Recognition** from the Department of Cyber Science & Technology, Brainware University, during CyberNex 2026 Alumni Meet.
 
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prithakdas&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithakdas&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
+</div>
+
 ## Let's connect
 
 I'm interested in practical application security, security research, responsible disclosure, and collaborating on security-focused projects.
 
-- Portfolio: https://prithakdas.github.io/
-- LinkedIn: https://www.linkedin.com/in/prithak-das/
-- Email: prithakpdas@gmail.com
+- **Portfolio:** https://prithakdas.github.io/
+- **LinkedIn:** https://www.linkedin.com/in/prithak-das/
+- **Email:** prithakpdas@gmail.com
 
 <div align="center">
 
