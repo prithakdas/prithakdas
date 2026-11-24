@@ -162,13 +162,15 @@ I focus on practical web application security: mapping attack surfaces, validati
 - **First Runner-Up** — BrainCON CTF 2026.
 - **CTFtime 2026 ranking** — #665 overall and #67 in India, with 114.487 points (Syntax Terror).
 - **ZeroBreach CTF 2026** — 19 personal solves and one First Blood; Syntax Terror finished with 27 solves and 11,322 points.
-- **SecLeaf Q2 CTF 2026** — 184th place out of 1,034 teams.
-- **Top 15% finishes** across four international CTF competitions.
+- **SecLeaf Q2 CTF 2026** — 184th / 1,034 teams (Top 18%).
+- **BroncoCTF 2026** — 129th / 1,016 teams (Top 13%).
+- **boroCTF 2026** — 89th / 645 teams (Top 14%, 9,600 points).
+- **THEM?! CTF 2026** — 151st / 905 teams (Top 17%).
 - Memento of Recognition — Department of Cyber Science & Technology, Brainware University, CyberNex 2026 Alumni Meet.
 
 ## `cat certifications.txt` — Certifications
 
-AZ-900 — Microsoft Azure Fundamentals · Web-RTA · AD-RTS · CRTOM · C3SA
+AZ-900 — Microsoft Azure Fundamentals · WEB-RTA · AD-RTS · CRTOM · CLFP · CSOCF · CLLMSE · CLLMSP · C3SA
 
 ## `htop` — GitHub at a glance
 
