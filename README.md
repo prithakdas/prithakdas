@@ -29,7 +29,7 @@
 
 I focus on practical web application security: mapping attack surfaces, validating vulnerabilities, documenting impact, and helping teams understand remediation. I also build Python-based security tools and sharpen my skills through hands-on labs and CTF competitions.
 
-| <img src="https://img.shields.io/badge/ROLE-VAPT%20INTERN-14532D?style=flat-square"/> | <img src="https://img.shields.io/badge/TRYHACKME-TOP%202%25-0E7490?style=flat-square"/> | <img src="https://img.shields.io/badge/FOCUS-WEB%20SECURITY-0E7490?style=flat-square"/> |
+| <img src="https://img.shields.io/badge/ROLE-VAPT%20INTERN-14532D?style=flat-square"/> | <img src="https://img.shields.io/badge/TRYHACKME-TOP%202%25-14532D?style=flat-square"/> | <img src="https://img.shields.io/badge/FOCUS-WEB%20SECURITY-14532D?style=flat-square"/> |
 |:---:|:---:|:---:|
 
 <details>
@@ -47,7 +47,7 @@ I focus on practical web application security: mapping attack surfaces, validati
 <div align="center">
 
 <a href="https://prithakdas.github.io/prithakdas/">
-<img src="https://img.shields.io/badge/▶%20PLAY%20PACKET%20PANIC-0B1220?style=for-the-badge&logo=hackthebox&logoColor=67E8F9" alt="Play Packet Panic"/>
+<img src="https://img.shields.io/badge/▶%20PLAY%20PACKET%20PANIC-030805?style=for-the-badge&logo=hackthebox&logoColor=39FF14" alt="Play Packet Panic"/>
 </a>
 
 **8 traffic samples. 8 security decisions. Can you spot the vulnerability?**
@@ -122,6 +122,14 @@ I focus on practical web application security: mapping attack surfaces, validati
 
 **More work:** [Enterprise Network Design](https://github.com/prithakdas/enterprise-network-design) · [Advanced EIGRP Routing](https://github.com/prithakdas/advanced-eigrp-routing) · [Writeups](https://github.com/prithakdas/writeups)
 
+## `find ./writeups -type f` — Published write-ups
+
+- [Web-RTA — Web Red Team Analyst (PDF)](https://github.com/prithakdas/writeups/blob/main/Web-RTA%20write-up.pdf)
+- [DalCTF 2026 (PDF)](https://github.com/prithakdas/writeups/blob/main/DalCTF2026_writeup.pdf)
+- [TryHackMe — c4ptur3-th3-fl4g (PDF)](https://github.com/prithakdas/writeups/blob/main/TryHackMe/c4ptur3-th3-fl4g/c4ptur3-th3-fl4g_TryHackMe.pdf)
+- [TryHackMe — Love at First Breach (PDF)](https://github.com/prithakdas/writeups/blob/main/TryHackMe/Love-at-First-Breach/Love-at-First-Breach_TryHackMe.pdf)
+
+
 ## `history | grep experience` — Experience
 
 **VAPT Intern — Brainware University** · *May 2026 – Present*
@@ -152,7 +160,9 @@ I focus on practical web application security: mapping attack surfaces, validati
 
 - **7th Place** — EC-Council Hackerverse CTF 2026, scoring 2000/2000.
 - **First Runner-Up** — BrainCON CTF 2026.
-- **72nd nationally** — 2026 CTF rankings with Syntax Terror CTF Team.
+- **CTFtime 2026 ranking** — #665 overall and #67 in India, with 114.487 points (Syntax Terror).
+- **ZeroBreach CTF 2026** — 19 personal solves and one First Blood; Syntax Terror finished with 27 solves and 11,322 points.
+- **SecLeaf Q2 CTF 2026** — 184th place out of 1,034 teams.
 - **Top 15% finishes** across four international CTF competitions.
 - Memento of Recognition — Department of Cyber Science & Technology, Brainware University, CyberNex 2026 Alumni Meet.
 
@@ -164,9 +174,9 @@ AZ-900 — Microsoft Azure Fundamentals · Web-RTA · AD-RTS · CRTOM · C3SA
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=prithakdas&show_icons=true&hide_border=true&theme=merko&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithakdas&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithakdas&layout=compact&hide_border=true&theme=merko" alt="Top languages"/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prithakdas&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prithakdas&hide_border=true&theme=merko" alt="GitHub contribution streak"/>
 </div>
 
 ## `whois prithakdas` — Connect
