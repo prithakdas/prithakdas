@@ -6,9 +6,9 @@
 
 <p>
 <a href="https://prithakdas.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-030805?style=for-the-badge&logo=firefox&logoColor=39FF14" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/prithak-das/"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=B7FF5A" alt="LinkedIn"/></a>
-<a href="mailto:prithakpdas@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=FCA5A5" alt="Email"/></a>
-<a href="https://github.com/prithakdas"><img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/prithak-das/"><img src="https://img.shields.io/badge/LINKEDIN-030805?style=for-the-badge&logo=linkedin&logoColor=B7FF5A" alt="LinkedIn"/></a>
+<a href="mailto:prithakpdas@gmail.com"><img src="https://img.shields.io/badge/EMAIL-030805?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/></a>
+<a href="https://github.com/prithakdas"><img src="https://img.shields.io/badge/GITHUB-030805?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=prithakdas&style=flat-square&color=39ff14&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -152,9 +152,9 @@ I focus on practical web application security: mapping attack surfaces, validati
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/7th%20Place-EC--Council%20Hackerverse%20CTF%202026-0E7490?style=for-the-badge" alt="7th place Hackerverse"/>
-<img src="https://img.shields.io/badge/First%20Runner--Up-BrainCON%20CTF%202026-0E7490?style=for-the-badge" alt="BrainCON runner-up"/>
-<img src="https://img.shields.io/badge/Top%202%25-TryHackMe-0E7490?style=for-the-badge" alt="TryHackMe top 2%"/>
+<img src="https://img.shields.io/badge/7th%20Place-EC--Council%20Hackerverse%20CTF%202026-14532D?style=for-the-badge" alt="7th place Hackerverse"/>
+<img src="https://img.shields.io/badge/First%20Runner--Up-BrainCON%20CTF%202026-14532D?style=for-the-badge" alt="BrainCON runner-up"/>
+<img src="https://img.shields.io/badge/Top%202%25-TryHackMe-14532D?style=for-the-badge" alt="TryHackMe top 2%"/>
 
 </div>
 
